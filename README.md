@@ -1,34 +1,84 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+Next Js and Typescript BoilerPlate</h1>
 
-## Getting Started
+<br />
 
-First, run the development server:
+![](./src/assets/img/NextBoilerPlate.jpeg)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
+  <a href="#description">Description</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp <a href="#install">Install</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp <a href="#technologies">Technologies</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp <a href="#related">Related</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp <a href="#references">References</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp <a href="#contact">Contact</a>
+</div>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+<br />
+<br />
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<h3 id="description">✍️ Description:</h3>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p>Some times I need a quick project start up. To make this real I decided to create a fast Next Js BoilerPlate to just programme, when this is all you want.</p>
 
-## Learn More
+<br />
 
-To learn more about Next.js, take a look at the following resources:
+<h3 id="install">🔍  Install:</h3>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p>To create this Boilerplate, I used NPM.If you are using Yarn, I recommend to migrate this dependencies.<p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**To install the package:**
 
-## Deploy on Vercel
+```npm install```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**To run correct script:**
+
+```npm run dev```
+
+**To create production build:**
+
+```npm run build```
+
+<br />
+
+<h3 id="technologies">🚀  Technologies:</h3>
+
+<p>To build this project is used:</p>
+
+- React
+- Next
+- Javascript
+- Typescript
+- NPM
+- Node
+- EditorConfig
+- Eslint
+- Prettier
+- Styled components
+- Babel
+
+<br />
+
+<h3 id="related">♟️  Related:</h3>
+
+See more:
+
+<ul>
+  <li><a href="https://github.com/samuelcarvalhodeveloper/Google-Clone-w-React-Js-Typescript-Styled-Components-Prettier-Eslint-EditorConfig">Google Clone</a></li>
+  <li><a href="https://github.com/samuelcarvalhodeveloper/Pinterest-Clone-w-React-Js-Typescript-Styled-Components-Prettier-Eslint-EditorConfig">Pinterest Clone</a></li>
+  <li><a href="https://github.com/samuelcarvalhodeveloper/Starbucks-Clone-w-React-Js-Typescript-Context-Api-Styled-Components-Prettier-Eslint-EditorConfig">Starbucks Clone</a></li>
+  <li><a href="https://github.com/samuelcarvalhodeveloper/Facebook-Clone-w-React-Js-Typescript-Styled-Components-Prettier-Eslint-EditorConfig">Facebook Clone</a></li>
+  <li><a href="https://github.com/samuelcarvalhodeveloper/Calculator-w-React-Js-Redux-ToolKit-Typescript-Styled-Components-Prettier-Eslint-EditorConfig">Calculator w/ Redux</a></li>
+</ul>
+
+<br />
+
+<h3 id="contact">✉️  Contact:</h3>
+
+**Email:**
+<a href="mailto:personal.samuelcarvalho@gmail.com">personal.samuelcarvalho@gmail.com</a>
+
+<br />
+<br />
+
+<p align="center"><strong>Repository Link:</strong></p>
+
+[https://github.com/samuelcarvalhodeveloper/NextJs-Typescript-Boilerplate-w-Styled-Components-and-SSR-Prettier-Eslint-Configured](https://github.com/samuelcarvalhodeveloper/NextJs-Typescript-Boilerplate-w-Styled-Components-and-SSR-Prettier-Eslint-Configured)
